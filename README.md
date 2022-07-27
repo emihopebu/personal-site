@@ -1,1 +1,1 @@
-Personal Site Project, built with HTML, CSS and JS.
+The project's URL: https://emihopebu.github.io/personal-site/
